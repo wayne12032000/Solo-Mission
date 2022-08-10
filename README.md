@@ -7,6 +7,12 @@ This version is modify by me.
 
 Hope you enjoy it.
 
+# How to use?
+1.Download it.
+
+2.Open it with xcode.
+
+
 # reference
 His tutorial is awesome!!
 
